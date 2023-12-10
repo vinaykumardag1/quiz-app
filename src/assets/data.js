@@ -37,6 +37,30 @@ export const data=[
         option2:"Homepage",
         option3:"sitemap",
         option4:"Pen Drive",
-        ans:1,
+        ans:2,
     },
+    {
+        question:"Who is CEO OF open Ai",
+        option1:"Sam Altman",
+        option2:"Elon musk",
+        option3:"JEff Bezos",
+        option4:"None of the above",
+        ans:1
+    },
+    {
+        question:"What is called as Heart of The Computer",
+        option1:"CPU",
+        option2:"RAM",
+        option3:"Cache",
+        option4:"Monitor",
+        ans:1   
+    },
+    {
+        question:"What is Capital of the Andhra Pradesh",
+        option1:"Kurnool",
+        option2:"Vizag",
+        option3:"Amaravthi",
+        option4:"None of the above",
+        ans:3
+    }   
 ];
